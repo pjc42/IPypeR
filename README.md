@@ -1,7 +1,11 @@
-# PypeR
+# IPypeR
 python calling R via pipes, ref: http://www.webarray.org/softwares/PypeR/
 
 This is a project to play around with some convenience wrappers for use of the PypeR lib in IPython notebook
+
+
+PypeR is the core lib with all of the functionality for interacting with R from python
+IPypeR is a set of auxillary functions and line and cell magics to make it more convenient to use PypeR from IPython notebook.
 
 ##TODO
 * create line and cell magics to simplify use
