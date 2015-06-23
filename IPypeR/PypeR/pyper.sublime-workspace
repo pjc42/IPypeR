@@ -1,0 +1,179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pjc/_github/PypeR"
+	],
+	"file_history":
+	[
+		"/Users/pjc/Documents/_sync/wspace-git/_ipynb/html-style-tags/html-css-printing-page-break.md",
+		"/Users/pjc/Documents/_sync/wspace-git/_ipynb/html-style-tags/style2.html",
+		"/Users/pjc/Downloads/_windows/Windows10.txt",
+		"/Users/pjc/.ipython/profile_default/ipython_notebook_config.py",
+		"/Users/pjc/Documents/_sync/wspace-git/_python/_mylib/myLib3/fileUtils.py",
+		"/Users/pjc/_github/xlwings/src/README.rst",
+		"/Users/pjc/Documents/_sync/wspace-git/_mathematica/CreditOptimzation/PortUtils/ErrorFunctionApproximations/commons.gamma.java",
+		"/Users/pjc/Documents/_sync/wspace-git/_mathematica/CreditOptimzation/PortUtils/ErrorFunctionApproximations/erf-2.java",
+		"/Users/pjc/Documents/_sync/wspace-git/_mathematica/CreditOptimzation/PortUtils/ErrorFunctionApproximations/erf.java",
+		"/Users/pjc/Downloads/Design Science MathType 6.7 OSX - (2014.09.29).txt",
+		"/Volumes/Installs/Mac Installs/sublime/sublime license"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pyper.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
