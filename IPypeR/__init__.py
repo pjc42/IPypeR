@@ -1,12 +1,13 @@
 
 # make PypeR available at IPypeR package level
-from IPypeR.PypeR import *
+from .PypeR import *
 
-__all__ = ['ipyper', 'apyper']
+from .ipyper import *
+from .apyper import *
+from .rmagics import *
+from .PypeR.pyper import *
+from .PypeR.misc_pkg import *
 
-from IPypeR.ipyper import *
-from IPypeR.apyper import *
 
-from IPypeR.ipyper import newR
-
+# during dev use dev.pth path file to add additional modules for debug and so on
 print('IPypeR imported ....')

@@ -12,7 +12,7 @@ Prerequisites:
 
 Usage:
     The usage of this packages is very simple. Examples are presented in the
-    file "test.py" in the distribution package.
+    file "test_loading.py" in the distribution package.
 
     PypeR provide a class "R" to wrap the R language. An instance of the R
     class is used to manage an R process. Different instances can use different
